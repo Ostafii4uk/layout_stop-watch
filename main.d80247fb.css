@@ -1,0 +1,2 @@
+.clock{position:relative;margin:auto;width:500px;height:500px;background-color:#deb887;border-radius:50%;border:1px solid orange}.clock:before{top:150px;height:100px;background-color:red;animation:rotate 3600s linear infinite}.clock:after,.clock:before{position:absolute;left:250px;display:block;content:"";width:5px;border-radius:5px;transform-origin:bottom}.clock:after{top:50px;height:200px;background-color:#5f9ea0;animation:rotate 60s linear infinite}@keyframes rotate{to{transform:rotate(1turn)}}
+/*# sourceMappingURL=main.d80247fb.css.map */
